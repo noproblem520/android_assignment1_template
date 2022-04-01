@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment1_template</string>
+    <string name="dog_name">Name：%1$s</string>
+    <string name="dog_age">Age: %1$d</string>
+    <string name="dog_hobbies">Hobbies: %1$s</string>
+    <string name="dog_intro">Introduction：%1$s</string>
+</resources>
